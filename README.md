@@ -1,1 +1,7 @@
-# Eddy
+Eddy (c) 2025 by The Aether Foundation
+
+Eddy is licensed under a
+Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License.
+
+You should have received a copy of the license along with this
+work.  If not, see <http://creativecommons.org/licenses/by-nc-nd/3.0/>.
